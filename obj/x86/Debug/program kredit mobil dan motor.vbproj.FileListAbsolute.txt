@@ -1,0 +1,36 @@
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form_2.resources
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form1.resources
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form3.resources
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form4.resources
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Resources.resources
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.vbproj.GenerateResource.Cache
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.exe
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.pdb
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.xml
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.exe
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.xml
+C:\Users\Muhyi Abdul Basith\AppData\Local\Temporary Projects\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.pdb
+C:\Users\Muhyi Abdul Basith\documents\visual studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.exe
+C:\Users\Muhyi Abdul Basith\documents\visual studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.xml
+C:\Users\Muhyi Abdul Basith\documents\visual studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.pdb
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.exe
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.pdb
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.xml
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form_2.resources
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form1.resources
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form3.resources
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form4.resources
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Resources.resources
+C:\Users\Muhyi Abdul Basith\Documents\Visual Studio 2010\Projects\program kredit mobil dan motor\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.exe
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.xml
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.pdb
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.exe
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.pdb
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\bin\Debug\program kredit mobil dan motor.xml
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form_2.resources
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form1.resources
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form3.resources
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Form4.resources
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program_kredit_mobil_dan_motor.Resources.resources
+C:\Users\asus\Documents\Visual Basic\program kredit mobil dan motor\obj\x86\Debug\program kredit mobil dan motor.vbproj.GenerateResource.Cache
